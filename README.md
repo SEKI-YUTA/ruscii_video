@@ -13,4 +13,4 @@ cargo run -- --input-video-path=<your video path> --output-video-path=<converted
 
 ## Sample
 
-<video src="./output/ascii_video.mp4" width="300" height="400" controls>
+<video src="./output/https://github.com/user-attachments/assets/df74887b-f19d-47fe-8235-63719a4b9abd" width="300" height="400" controls>
